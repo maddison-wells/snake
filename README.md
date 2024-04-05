@@ -1,5 +1,9 @@
 # Snake Game built in Java
 
+![Game Play Image](./Snake/images/gameplay.png)
+
+![Game Over Image](./Snake/images/gameover.png)
+
 ## Thursday 4th April
 
 I've been trying to increase my knowledge in Java and get a better understanding of when to implement methods and new classes, etc. I thought a fun way would be to do a code-along.
